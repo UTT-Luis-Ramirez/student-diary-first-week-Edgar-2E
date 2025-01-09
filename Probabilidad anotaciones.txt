@@ -1,0 +1,73 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "cH4CXvNI3Jpp"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "ghrkbGNv-Wcc"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Objetivo principal de la estadística\n",
+        "- Cuantificar la realidad y analizarla para facilitar la solucion de problemas. Permite obtener resultados numericos y evaluar como se desarrolla
+           una situacion en diferentes escenarios.\n",
+        "\n",
+        "Estadística descriptiva:\n",
+        "- medidas centrales, dispersiones, gráficos.\n",
+        "\n",
+        "Estadística Inferencial:\n",
+        "- probabilidades, hipótesis y muestreo.\n",
+        "\n",
+        "La estadística se aplica en todo, pero principalmente en 4 áreas: la investigación científica, en la economía, la medicina y también en las ciencias sociales.\n",
+        "\n",
+        "La estadística es una herramienta esencial para comprender el mundo que nos rodea que nos permite ver cosas que normalmente no se pueden ver.\n",
+        "\n",
+        "*Pasos de la estadística descriptiva:*\n",
+        "- La recolección y organización de la información relevante.\n",
+        "- El cálculo de medidas descriptivas.\n",
+        "- La presentación de los datos de forma visualmente atractiva y fácil de entender.\n",
+        "- Comenzar el análisis de identificación de patrones y relaciones entre las variables de un conjunto de datos.\n",
+        "\n",
+        "Estadística Inferencial:\n",
+        "\n",
+        "- es la rama de la estadística que trae conclusiones.\n",
+        "\n",
+        "- Esta toma decisiones a base de los eventos.\n",
+        "\n",
+        "*Pasos de la estadística Inferencial:*\n",
+        "- Estimación de parámetros.\n",
+        "- La conjetura de hipótesis y su prueba.\n",
+        "- Generar intervalos de confianza que me permita pensar si tiene más posibilidades de hipótesis o si no.\n",
+        "- Modelado estadístico."
+      ],
+      "metadata": {
+        "id": "lOeDT81a3K1F"
+      }
+    }
+  ]
+}
